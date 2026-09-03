@@ -183,12 +183,6 @@ Through this project, I gained practical experience in:
 * Calculating and interpreting Halstead Metrics
 * Understanding the relationship between testing and software quality
 
-## 📚 Academic Context
-
-**Course:** Software Quality Engineering + Lab (SE-343 / SE-343L)
-**Project:** Demo Testing Website
-**Application Tested:** OpenCart Demo Website
-
 ## 👥 Team
 
 * **M. Attaullah**
